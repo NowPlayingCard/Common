@@ -5,9 +5,7 @@ import type Data from "../Interface/Data.js";
  * @module Access
  *
  */
-export default (async (
-	...[Key, Identifier, { get }, View]
-) => {
+export default (async (...[Key, Identifier, { get }, View]) => {
 	try {
 		const { Vector, Data } = (await get(Identifier, {
 			type: "json",

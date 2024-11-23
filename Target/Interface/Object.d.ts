@@ -3,5 +3,5 @@
  *
  */
 export default interface Interface {
-	[key: number]: number;
+    [key: number]: number;
 }

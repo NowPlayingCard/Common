@@ -21,7 +21,7 @@ import {
 } from "@common/now-playing_cards";
 ```
 
-[Common]: https://npmjs.org/@common/now-playing_cards
+[Common]: HTTPS://npmjs.org/@common/now-playing_cards
 
 ## Changelog
 

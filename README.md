@@ -1,6 +1,6 @@
-# 👨🏻‍🏭 [Common] —
+# [Common] 👨🏻‍🏭
 
-## 🚀 Installation
+## Installation 🚀
 
 First, install the `@common/now-playing_cards` component like so:
 
